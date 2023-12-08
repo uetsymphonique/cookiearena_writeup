@@ -36,4 +36,5 @@ Upload a php file to the server with content:
 ```
 It's successfully uploaded and check this file, we gain the flag:
 ![img_1.png](img_1.png)
+
 Flag: `CHH{PHP_m4g1c_tr1ck_0lD_but_g0lD_d8ead8568b9580e55b64cf03243d8d3e}`
